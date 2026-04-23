@@ -14,14 +14,16 @@
 - Тёмная тема (Catppuccin Mocha)
 
 
-Требование- 
+## Требование- 
+
 Win rar. 
 
 
-Инструкция-
+## Инструкция-
+
 Зайдите на страницу релизов скачайте zip файл.
 Распакуйте куда угодно .
 Откройте Music Player.exe.
 
 
-If you want engl instructions go to realis page.
+## If you want engl instructions go to realis page!!!!
